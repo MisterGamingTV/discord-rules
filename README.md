@@ -15,7 +15,7 @@ by MisterGamingTV#5451
 ```
 
 # Übersetzungen
-Du möchtest das Regelwerk in eine andere Sprache übersetzen? Dann erstelle eine Pull-Request mit dem Sprachckde deiner Sprache.
+Du möchtest das Regelwerk in eine andere Sprache übersetzen? Dann erstelle eine Pull-Request mit dem Sprachcode deiner Sprache.
 Beispiele:
 de_DE
 en_EN
