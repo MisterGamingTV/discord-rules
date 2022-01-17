@@ -30,4 +30,4 @@ Hier findest du alle Übersetzer und Unterstützer dieses Projektes.
 Wenn du mir eine kleine Freude machen möchtest, folge mir gerne auf meinem Social Media Kanälen.
 
 **Twitter:** https://twitter.com/MisterGamingTV1
-**Twitch:*" https://twitch.tv/MisterGamingTV
+**Twitch:** https://twitch.tv/MisterGamingTV
